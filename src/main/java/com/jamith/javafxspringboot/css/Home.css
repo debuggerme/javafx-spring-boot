@@ -1,0 +1,60 @@
+
+.menuButton:hover{
+    -fx-background-color: #00acff;
+}
+.menu-bar:hover{
+    -fx-background-color: #5c5757;
+}
+
+.closeButton:hover{
+    -fx-background-color: #be110a;
+
+}
+
+.minimiseButton:hover{
+    -fx-background-color: #aba3a0;
+
+}
+.selected{
+    -fx-background-color: #404040;
+}
+
+.addButton:hover{
+    -fx-background-color: #0c4005;
+}
+
+.closeButton:hover{
+    -fx-background-color: #a20307;
+}
+
+.printButton:hover{
+    -fx-background-color: #0067ab;
+}
+
+.searchButton:hover{
+    -fx-background-color: #005620;
+}
+
+
+.column-header-background         { -fx-background-color: #f0ff18;       }
+.willPayRow                       { -fx-background-color: palegreen;   }
+.wontPayRow                       { -fx-background-color: coral;       }
+.willPayCell                      { -fx-background-color: forestgreen; }
+.wontPayCell                      { -fx-background-color: firebrick;   }
+
+.table-view .column-header .label{
+    -fx-alignment:center-left
+}
+.buttonEdite{
+    -fx-background-color: #79a463;
+}
+.buttonRemove{
+    -fx-background-color: #b89292;
+}
+.ComplectBut{
+    -fx-background-color: #79a463;
+}
+.viewBut{
+    -fx-background-color: #b89292;
+}
+
